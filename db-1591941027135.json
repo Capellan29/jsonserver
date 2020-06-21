@@ -1,0 +1,39 @@
+{
+  "patients": [
+    {
+      "name": "Juana Mendez",
+      "idNumber": "492-1112323-1",
+      "value": 0
+    },
+    {
+      "name": "Pedro Sanchez",
+      "idNumber": "492-1112323-1",
+      "value": 0
+    },
+    {
+      "name": "José Mejía",
+      "idNumber": "492-1112323-1",
+      "value": 2
+    },
+    {
+      "name": "María Martes",
+      "idNumber": "492-1112323-1",
+      "value": 1
+    },
+    {
+      "name": "Michael Andujar",
+      "idNumber": "492-1112323-1",
+      "value": 0
+    },
+    {
+      "name": "Lilian Lara",
+      "idNumber": "492-1112323-1",
+      "value": 2
+    },
+    {
+      "name": "Josué Jimenez",
+      "idNumber": "492-1112323-1",
+      "value": 3
+    }
+  ]
+}
